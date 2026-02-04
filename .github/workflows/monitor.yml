@@ -1,6 +1,7 @@
 name: STWDO Housing Monitor
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
 
