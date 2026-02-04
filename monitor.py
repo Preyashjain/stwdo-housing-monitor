@@ -8,7 +8,7 @@ URL = "https://www.stwdo.de/en/living-houses-application/current-housing-offers"
 
 EMAIL_FROM = os.environ["preyashjain916@gmail.com"]
 EMAIL_TO = os.environ["preyashjain916@gmail.com"]
-EMAIL_PASSWORD = os.environ["EMAIL_PASSWORD"]
+EMAIL_PASSWORD = os.environ["rwpd abyf ibyu vbub"]
 
 def send_email(message):
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
